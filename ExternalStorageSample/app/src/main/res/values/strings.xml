@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExternalStorageSample</string>
+    <string name="my_image_descr">This is my image</string>
+</resources>
